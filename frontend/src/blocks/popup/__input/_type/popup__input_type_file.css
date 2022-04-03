@@ -1,0 +1,20 @@
+.popup__input_type_file {
+  box-sizing: border-box;
+  width: 35%;
+  transition: opacity 0.2s linear;
+  background: transparent;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  text-align: center;
+  padding: 5px;
+}
+.popup__input_type_file:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+/* Media Queries */
+@media screen and (max-width: 768px) {
+  .popup__input_type_file {
+    width: 100%;
+  }
+}

@@ -1,0 +1,9 @@
+.popup__container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: 29px 0;
+  margin: 0 auto;
+  cursor: default;
+  margin-top: 54px;
+}
