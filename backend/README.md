@@ -1,8 +1,3 @@
-# react-around-api-full
-
-The API of "Around the U.S." with authorization and registration handled by the back-end server.
-This repository contains the full API of "Around the U.S." project that features user authorization and user registration and handles cards and users.
-
 ## Backend
 
 #### Technologies and Techniques
@@ -30,20 +25,3 @@ This repository contains the full API of "Around the U.S." project that features
 | `DELETE /cards/:cardId/likes` | removes a like from a card |
 | `PUT /cards/:cardId/likes`    | add a like to a card       |
 
-#### run the server:
-
-```
-  git clone https://github.com/effip24/react-around-api.git
-```
-
-```
-  cd react-around-api
-```
-
-```
-  npm install
-```
-
-```
-  npm run start
-```
