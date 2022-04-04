@@ -55,13 +55,14 @@ This project features user authorization and user registration and handles cards
 ```
 #### second, run the client:
 
- cd ../frontend
+ 
 ```
-
+cd ../frontend
 ```
-  npm install
+  
 ```
-
+npm install
 ```
-  npm run start
+ 
+``` npm run start
 ```
