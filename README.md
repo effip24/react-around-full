@@ -7,7 +7,7 @@ This project features user authorization and user registration and handles cards
 
 
 
-<a src="https://imgflip.com/embed/6bafxl" alt="css3" width="350" height="350"> </a>
+<a href="https://imgflip.com/embed/6bafxl"> </a>
 
 #### Technologies and Techniques
 
