@@ -27,21 +27,3 @@ This repository contains the frontend of "Around the U.S." project that features
 
   1024, 768, 425, 320
 ```
-
-#### run the website locally:
-
-```
-  git clone https://github.com/effip24/react-around-frontend.git
-```
-
-```
-  cd react-around-frontend/
-```
-
-```
-  npm install
-```
-
-```
-  npm run start
-```
