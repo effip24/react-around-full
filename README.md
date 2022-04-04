@@ -32,3 +32,22 @@ This project features user authorization and user registration and handles cards
 
   1024, 768, 425, 320
 ```
+
+
+#### run the server:
+
+```
+  git clone https://github.com/effip24/react-around-api.git
+```
+
+```
+  cd react-around-api
+```
+
+```
+  npm install
+```
+
+```
+  npm run start
+```
