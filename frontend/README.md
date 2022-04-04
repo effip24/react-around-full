@@ -1,8 +1,3 @@
-# react-around-frontend
-
-The frontend of "Around the U.S." with authorization and registration handled by the back-end server.
-This repository contains the frontend of "Around the U.S." project that features user authorization and user registration and handles cards and users.
-
 ## Frontend
 
 #### Link to the frontend: https://around-us-effip.netlify.app/
