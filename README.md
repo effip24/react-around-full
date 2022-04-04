@@ -5,8 +5,7 @@ This project features user authorization and user registration and handles cards
 
 #### Live: https://around-us-effip.netlify.app/
 
-![alt-text](https://i.imgur.com/wQvThd3.gif)
-<img src="https://i.imgur.com/wQvThd3.gif" alt="css3" width="40" height="40"/>
+<img src="https://i.imgur.com/wQvThd3.gif" alt="css3" width="350" height="350"/>
 
 
 #### Technologies and Techniques
