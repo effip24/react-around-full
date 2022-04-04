@@ -3,7 +3,7 @@
 "Around the U.S." with authorization and registration handled by the back-end server.
 This project features user authorization and user registration and handles cards and users.
 
-#### Link to the frontend: https://around-us-effip.netlify.app/
+#### Live: https://around-us-effip.netlify.app/
 
 #### Technologies and Techniques
 
