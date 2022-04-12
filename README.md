@@ -27,9 +27,7 @@ This project features user authorization and user registration and handles cards
 ```
   BEM, CSS Flexbox and Grid, JavaScript, ReactJS, NodeJs, ExpressJs, Mongodb
 
-  The website is fully responsive and has a design at the following breakpoints
-
-  1024, 768, 425, 320
+  The website is fully responsive.
 ```
 
 ### run the project locally:
